@@ -39,9 +39,8 @@ Upon completing the course, students will have the opportunity to apply what the
 ## Usage Instructions 📝
 
 1. Clone or download this repository to your computer.
-2. Open the `index.html` file in your browser to access the course content.
-3. Follow the course in order, completing exercises and practical projects.
-4. Refer to the source code files and documentation for more details on each topic.
+2. Follow the course in order, completing exercises and practical projects.
+3. Refer to the source code files and documentation for more details on each topic.
 
 
 ## 🛠️ Tools We Will Use 
